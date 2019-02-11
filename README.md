@@ -1,0 +1,2 @@
+# gomsgservice
+Go Messaging Service
